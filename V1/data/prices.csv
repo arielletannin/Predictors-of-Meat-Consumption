@@ -1,0 +1,945 @@
+Element,Item,Year,Unit,Value
+Import Quantity,Bovine Meat,1961,tonnes,387520
+Import Quantity,Bovine Meat,1962,tonnes,554262
+Import Quantity,Bovine Meat,1963,tonnes,647256
+Import Quantity,Bovine Meat,1964,tonnes,468543
+Import Quantity,Bovine Meat,1965,tonnes,410271
+Import Quantity,Bovine Meat,1966,tonnes,527636
+Import Quantity,Bovine Meat,1967,tonnes,578941
+Import Quantity,Bovine Meat,1968,tonnes,666259
+Import Quantity,Bovine Meat,1969,tonnes,720014
+Import Quantity,Bovine Meat,1970,tonnes,804135
+Import Quantity,Bovine Meat,1971,tonnes,768656
+Import Quantity,Bovine Meat,1972,tonnes,871117
+Import Quantity,Bovine Meat,1973,tonnes,878934
+Import Quantity,Bovine Meat,1974,tonnes,718787
+Import Quantity,Bovine Meat,1975,tonnes,784785
+Import Quantity,Bovine Meat,1976,tonnes,894108
+Import Quantity,Bovine Meat,1977,tonnes,805239
+Import Quantity,Bovine Meat,1978,tonnes,970614
+Import Quantity,Bovine Meat,1979,tonnes,1024530
+Import Quantity,Bovine Meat,1980,tonnes,913838
+Import Quantity,Bovine Meat,1981,tonnes,782883
+Import Quantity,Bovine Meat,1982,tonnes,880811
+Import Quantity,Bovine Meat,1983,tonnes,821441
+Import Quantity,Bovine Meat,1984,tonnes,758290
+Import Quantity,Bovine Meat,1985,tonnes,875797
+Import Quantity,Bovine Meat,1986,tonnes,899777
+Import Quantity,Bovine Meat,1987,tonnes,977693
+Import Quantity,Bovine Meat,1988,tonnes,1018078
+Import Quantity,Bovine Meat,1989,tonnes,918455
+Import Quantity,Bovine Meat,1990,tonnes,1002335
+Import Quantity,Bovine Meat,1991,tonnes,1025041
+Import Quantity,Bovine Meat,1992,tonnes,1085251
+Import Quantity,Bovine Meat,1993,tonnes,1026192
+Import Quantity,Bovine Meat,1994,tonnes,999344
+Import Quantity,Bovine Meat,1995,tonnes,795478
+Import Quantity,Bovine Meat,1996,tonnes,901866
+Import Quantity,Bovine Meat,1997,tonnes,1027067
+Import Quantity,Bovine Meat,1998,tonnes,1159276
+Import Quantity,Bovine Meat,1999,tonnes,1261631
+Import Quantity,Bovine Meat,2000,tonnes,1342202
+Import Quantity,Bovine Meat,2001,tonnes,1388953
+Import Quantity,Bovine Meat,2002,tonnes,1405865
+Import Quantity,Bovine Meat,2003,tonnes,1287815
+Import Quantity,Bovine Meat,2004,tonnes,1572252
+Import Quantity,Bovine Meat,2005,tonnes,1547532
+Import Quantity,Bovine Meat,2006,tonnes,1324574
+Import Quantity,Bovine Meat,2007,tonnes,1315564
+Import Quantity,Bovine Meat,2008,tonnes,1102750
+Import Quantity,Bovine Meat,2009,tonnes,1140394
+Import Quantity,Bovine Meat,2010,tonnes,1014310
+Import Quantity,Bovine Meat,2011,tonnes,912379
+Import Quantity,Bovine Meat,2012,tonnes,990146
+Import Quantity,Bovine Meat,2013,tonnes,1002418
+Import Quantity,Bovine Meat,2014,tonnes,1311050
+Import Quantity,Bovine Meat,2015,tonnes,1496894
+Import Quantity,Bovine Meat,2016,tonnes,1343089
+Import Quantity,Bovine Meat,2017,tonnes,1350579
+Import Quantity,Bovine Meat,2018,tonnes,1344191
+Import Quantity,Bovine Meat,2019,tonnes,1379435
+Import Value,Bovine Meat,1961,1000 US$,228757
+Import Value,Bovine Meat,1962,1000 US$,302710
+Import Value,Bovine Meat,1963,1000 US$,355789
+Import Value,Bovine Meat,1964,1000 US$,263214
+Import Value,Bovine Meat,1965,1000 US$,245457
+Import Value,Bovine Meat,1966,1000 US$,360128
+Import Value,Bovine Meat,1967,1000 US$,409159
+Import Value,Bovine Meat,1968,1000 US$,492968
+Import Value,Bovine Meat,1969,1000 US$,577052
+Import Value,Bovine Meat,1970,1000 US$,691430
+Import Value,Bovine Meat,1971,1000 US$,743858
+Import Value,Bovine Meat,1972,1000 US$,870730
+Import Value,Bovine Meat,1973,1000 US$,1180097
+Import Value,Bovine Meat,1974,1000 US$,907154
+Import Value,Bovine Meat,1975,1000 US$,673062
+Import Value,Bovine Meat,1976,1000 US$,938186
+Import Value,Bovine Meat,1977,1000 US$,824099
+Import Value,Bovine Meat,1978,1000 US$,1293675
+Import Value,Bovine Meat,1979,1000 US$,1986294
+Import Value,Bovine Meat,1980,1000 US$,1792265
+Import Value,Bovine Meat,1981,1000 US$,1419004
+Import Value,Bovine Meat,1982,1000 US$,1408339
+Import Value,Bovine Meat,1983,1000 US$,1527785
+Import Value,Bovine Meat,1984,1000 US$,1361953
+Import Value,Bovine Meat,1985,1000 US$,1451861
+Import Value,Bovine Meat,1986,1000 US$,1451632
+Import Value,Bovine Meat,1987,1000 US$,1776808
+Import Value,Bovine Meat,1988,1000 US$,1898478
+Import Value,Bovine Meat,1989,1000 US$,1841872
+Import Value,Bovine Meat,1990,1000 US$,2085376
+Import Value,Bovine Meat,1991,1000 US$,2172368
+Import Value,Bovine Meat,1992,1000 US$,2165782
+Import Value,Bovine Meat,1993,1000 US$,2124959
+Import Value,Bovine Meat,1994,1000 US$,1952377
+Import Value,Bovine Meat,1995,1000 US$,1429030
+Import Value,Bovine Meat,1996,1000 US$,1504708
+Import Value,Bovine Meat,1997,1000 US$,1796108
+Import Value,Bovine Meat,1998,1000 US$,2033172
+Import Value,Bovine Meat,1999,1000 US$,2348168
+Import Value,Bovine Meat,2000,1000 US$,2637652
+Import Value,Bovine Meat,2001,1000 US$,2932867
+Import Value,Bovine Meat,2002,1000 US$,2830274
+Import Value,Bovine Meat,2003,1000 US$,2818279
+Import Value,Bovine Meat,2004,1000 US$,3848112
+Import Value,Bovine Meat,2005,1000 US$,3906171
+Import Value,Bovine Meat,2006,1000 US$,3456008
+Import Value,Bovine Meat,2007,1000 US$,3547861
+Import Value,Bovine Meat,2008,1000 US$,3294672
+Import Value,Bovine Meat,2009,1000 US$,2938780
+Import Value,Bovine Meat,2010,1000 US$,3033919
+Import Value,Bovine Meat,2011,1000 US$,3404646
+Import Value,Bovine Meat,2012,1000 US$,3864591
+Import Value,Bovine Meat,2013,1000 US$,4074167
+Import Value,Bovine Meat,2014,1000 US$,5857657
+Import Value,Bovine Meat,2015,1000 US$,7110618
+Import Value,Bovine Meat,2016,1000 US$,5638097
+Import Value,Bovine Meat,2017,1000 US$,5632241
+Import Value,Bovine Meat,2018,1000 US$,5989214
+Import Value,Bovine Meat,2019,1000 US$,6440830
+Export Quantity,Bovine Meat,1961,tonnes,73118
+Export Quantity,Bovine Meat,1962,tonnes,71889
+Export Quantity,Bovine Meat,1963,tonnes,87397
+Export Quantity,Bovine Meat,1964,tonnes,138711
+Export Quantity,Bovine Meat,1965,tonnes,86280
+Export Quantity,Bovine Meat,1966,tonnes,73310
+Export Quantity,Bovine Meat,1967,tonnes,76742
+Export Quantity,Bovine Meat,1968,tonnes,75651
+Export Quantity,Bovine Meat,1969,tonnes,74770
+Export Quantity,Bovine Meat,1970,tonnes,74432
+Export Quantity,Bovine Meat,1971,tonnes,93446
+Export Quantity,Bovine Meat,1972,tonnes,109708
+Export Quantity,Bovine Meat,1973,tonnes,117433
+Export Quantity,Bovine Meat,1974,tonnes,107720
+Export Quantity,Bovine Meat,1975,tonnes,106232
+Export Quantity,Bovine Meat,1976,tonnes,145418
+Export Quantity,Bovine Meat,1977,tonnes,157762
+Export Quantity,Bovine Meat,1978,tonnes,188938
+Export Quantity,Bovine Meat,1979,tonnes,180832
+Export Quantity,Bovine Meat,1980,tonnes,218773
+Export Quantity,Bovine Meat,1981,tonnes,240881
+Export Quantity,Bovine Meat,1982,tonnes,268962
+Export Quantity,Bovine Meat,1983,tonnes,282996
+Export Quantity,Bovine Meat,1984,tonnes,313100
+Export Quantity,Bovine Meat,1985,tonnes,328034
+Export Quantity,Bovine Meat,1986,tonnes,416348
+Export Quantity,Bovine Meat,1987,tonnes,439150
+Export Quantity,Bovine Meat,1988,tonnes,500293
+Export Quantity,Bovine Meat,1989,tonnes,671088
+Export Quantity,Bovine Meat,1990,tonnes,607296
+Export Quantity,Bovine Meat,1991,tonnes,711804
+Export Quantity,Bovine Meat,1992,tonnes,789684
+Export Quantity,Bovine Meat,1993,tonnes,789270
+Export Quantity,Bovine Meat,1994,tonnes,934092
+Export Quantity,Bovine Meat,1995,tonnes,1099892
+Export Quantity,Bovine Meat,1996,tonnes,1131516
+Export Quantity,Bovine Meat,1997,tonnes,1165016
+Export Quantity,Bovine Meat,1998,tonnes,1214979
+Export Quantity,Bovine Meat,1999,tonnes,1331448
+Export Quantity,Bovine Meat,2000,tonnes,1585471
+Export Quantity,Bovine Meat,2001,tonnes,1376737
+Export Quantity,Bovine Meat,2002,tonnes,1339097
+Export Quantity,Bovine Meat,2003,tonnes,1377425
+Export Quantity,Bovine Meat,2004,tonnes,300157
+Export Quantity,Bovine Meat,2005,tonnes,447838
+Export Quantity,Bovine Meat,2006,tonnes,648923
+Export Quantity,Bovine Meat,2007,tonnes,780000
+Export Quantity,Bovine Meat,2008,tonnes,1010818
+Export Quantity,Bovine Meat,2009,tonnes,992789
+Export Quantity,Bovine Meat,2010,tonnes,1217164
+Export Quantity,Bovine Meat,2011,tonnes,1477386
+Export Quantity,Bovine Meat,2012,tonnes,1299272
+Export Quantity,Bovine Meat,2013,tonnes,1343454
+Export Quantity,Bovine Meat,2014,tonnes,1363648
+Export Quantity,Bovine Meat,2015,tonnes,1209114
+Export Quantity,Bovine Meat,2016,tonnes,1349574
+Export Quantity,Bovine Meat,2017,tonnes,1452390
+Export Quantity,Bovine Meat,2018,tonnes,1566841
+Export Quantity,Bovine Meat,2019,tonnes,1523021
+Export Value,Bovine Meat,1961,1000 US$,39955
+Export Value,Bovine Meat,1962,1000 US$,38654
+Export Value,Bovine Meat,1963,1000 US$,43975
+Export Value,Bovine Meat,1964,1000 US$,72383
+Export Value,Bovine Meat,1965,1000 US$,62114
+Export Value,Bovine Meat,1966,1000 US$,58366
+Export Value,Bovine Meat,1967,1000 US$,59123
+Export Value,Bovine Meat,1968,1000 US$,58612
+Export Value,Bovine Meat,1969,1000 US$,62157
+Export Value,Bovine Meat,1970,1000 US$,68484
+Export Value,Bovine Meat,1971,1000 US$,88468
+Export Value,Bovine Meat,1972,1000 US$,117451
+Export Value,Bovine Meat,1973,1000 US$,188922
+Export Value,Bovine Meat,1974,1000 US$,142648
+Export Value,Bovine Meat,1975,1000 US$,149151
+Export Value,Bovine Meat,1976,1000 US$,219748
+Export Value,Bovine Meat,1977,1000 US$,246174
+Export Value,Bovine Meat,1978,1000 US$,348485
+Export Value,Bovine Meat,1979,1000 US$,448688
+Export Value,Bovine Meat,1980,1000 US$,501258
+Export Value,Bovine Meat,1981,1000 US$,557633
+Export Value,Bovine Meat,1982,1000 US$,628269
+Export Value,Bovine Meat,1983,1000 US$,610874
+Export Value,Bovine Meat,1984,1000 US$,702234
+Export Value,Bovine Meat,1985,1000 US$,718082
+Export Value,Bovine Meat,1986,1000 US$,911330
+Export Value,Bovine Meat,1987,1000 US$,1078534
+Export Value,Bovine Meat,1988,1000 US$,1487581
+Export Value,Bovine Meat,1989,1000 US$,1730545
+Export Value,Bovine Meat,1990,1000 US$,1895814
+Export Value,Bovine Meat,1991,1000 US$,2166128
+Export Value,Bovine Meat,1992,1000 US$,2526615
+Export Value,Bovine Meat,1993,1000 US$,2467871
+Export Value,Bovine Meat,1994,1000 US$,2764555
+Export Value,Bovine Meat,1995,1000 US$,3269709
+Export Value,Bovine Meat,1996,1000 US$,3056036
+Export Value,Bovine Meat,1997,1000 US$,2975901
+Export Value,Bovine Meat,1998,1000 US$,2811437
+Export Value,Bovine Meat,1999,1000 US$,3226326
+Export Value,Bovine Meat,2000,1000 US$,3833986
+Export Value,Bovine Meat,2001,1000 US$,3229378
+Export Value,Bovine Meat,2002,1000 US$,2989715
+Export Value,Bovine Meat,2003,1000 US$,3618370
+Export Value,Bovine Meat,2004,1000 US$,669557
+Export Value,Bovine Meat,2005,1000 US$,1131123
+Export Value,Bovine Meat,2006,1000 US$,1741861
+Export Value,Bovine Meat,2007,1000 US$,2266709
+Export Value,Bovine Meat,2008,1000 US$,3179669
+Export Value,Bovine Meat,2009,1000 US$,2924174
+Export Value,Bovine Meat,2010,1000 US$,4008913
+Export Value,Bovine Meat,2011,1000 US$,5337259
+Export Value,Bovine Meat,2012,1000 US$,5434935
+Export Value,Bovine Meat,2013,1000 US$,6059846
+Export Value,Bovine Meat,2014,1000 US$,7014667
+Export Value,Bovine Meat,2015,1000 US$,6165358
+Export Value,Bovine Meat,2016,1000 US$,6228695
+Export Value,Bovine Meat,2017,1000 US$,7150610
+Export Value,Bovine Meat,2018,1000 US$,8224691
+Export Value,Bovine Meat,2019,1000 US$,7943517
+Import Quantity,Poultry Meat,1961,tonnes,101
+Import Quantity,Poultry Meat,1962,tonnes,97
+Import Quantity,Poultry Meat,1963,tonnes,82
+Import Quantity,Poultry Meat,1964,tonnes,35
+Import Quantity,Poultry Meat,1965,tonnes,18
+Import Quantity,Poultry Meat,1966,tonnes,27
+Import Quantity,Poultry Meat,1967,tonnes,36
+Import Quantity,Poultry Meat,1968,tonnes,36
+Import Quantity,Poultry Meat,1969,tonnes,34
+Import Quantity,Poultry Meat,1970,tonnes,29
+Import Quantity,Poultry Meat,1971,tonnes,32
+Import Quantity,Poultry Meat,1972,tonnes,20
+Import Quantity,Poultry Meat,1973,tonnes,30
+Import Quantity,Poultry Meat,1974,tonnes,65
+Import Quantity,Poultry Meat,1975,tonnes,31
+Import Quantity,Poultry Meat,1976,tonnes,41
+Import Quantity,Poultry Meat,1977,tonnes,48
+Import Quantity,Poultry Meat,1978,tonnes,54
+Import Quantity,Poultry Meat,1979,tonnes,31
+Import Quantity,Poultry Meat,1980,tonnes,26
+Import Quantity,Poultry Meat,1981,tonnes,32
+Import Quantity,Poultry Meat,1982,tonnes,46
+Import Quantity,Poultry Meat,1983,tonnes,1792
+Import Quantity,Poultry Meat,1984,tonnes,2253
+Import Quantity,Poultry Meat,1985,tonnes,3376
+Import Quantity,Poultry Meat,1986,tonnes,3945
+Import Quantity,Poultry Meat,1987,tonnes,4357
+Import Quantity,Poultry Meat,1988,tonnes,3887
+Import Quantity,Poultry Meat,1989,tonnes,4135
+Import Quantity,Poultry Meat,1990,tonnes,5287
+Import Quantity,Poultry Meat,1991,tonnes,5970
+Import Quantity,Poultry Meat,1992,tonnes,4100
+Import Quantity,Poultry Meat,1993,tonnes,4747
+Import Quantity,Poultry Meat,1994,tonnes,3704
+Import Quantity,Poultry Meat,1995,tonnes,5570
+Import Quantity,Poultry Meat,1996,tonnes,5641
+Import Quantity,Poultry Meat,1997,tonnes,7530
+Import Quantity,Poultry Meat,1998,tonnes,9599
+Import Quantity,Poultry Meat,1999,tonnes,16063
+Import Quantity,Poultry Meat,2000,tonnes,20195
+Import Quantity,Poultry Meat,2001,tonnes,28615
+Import Quantity,Poultry Meat,2002,tonnes,33347
+Import Quantity,Poultry Meat,2003,tonnes,35188
+Import Quantity,Poultry Meat,2004,tonnes,44442
+Import Quantity,Poultry Meat,2005,tonnes,51915
+Import Quantity,Poultry Meat,2006,tonnes,67930
+Import Quantity,Poultry Meat,2007,tonnes,78536
+Import Quantity,Poultry Meat,2008,tonnes,84811
+Import Quantity,Poultry Meat,2009,tonnes,85129
+Import Quantity,Poultry Meat,2010,tonnes,94355
+Import Quantity,Poultry Meat,2011,tonnes,94217
+Import Quantity,Poultry Meat,2012,tonnes,102717
+Import Quantity,Poultry Meat,2013,tonnes,111721
+Import Quantity,Poultry Meat,2014,tonnes,117105
+Import Quantity,Poultry Meat,2015,tonnes,146427
+Import Quantity,Poultry Meat,2016,tonnes,150779
+Import Quantity,Poultry Meat,2017,tonnes,138522
+Import Quantity,Poultry Meat,2018,tonnes,145500
+Import Quantity,Poultry Meat,2019,tonnes,139751
+Import Value,Poultry Meat,1961,1000 US$,454
+Import Value,Poultry Meat,1962,1000 US$,521
+Import Value,Poultry Meat,1963,1000 US$,385
+Import Value,Poultry Meat,1964,1000 US$,410
+Import Value,Poultry Meat,1965,1000 US$,405
+Import Value,Poultry Meat,1966,1000 US$,483
+Import Value,Poultry Meat,1967,1000 US$,390
+Import Value,Poultry Meat,1968,1000 US$,393
+Import Value,Poultry Meat,1969,1000 US$,537
+Import Value,Poultry Meat,1970,1000 US$,439
+Import Value,Poultry Meat,1971,1000 US$,443
+Import Value,Poultry Meat,1972,1000 US$,309
+Import Value,Poultry Meat,1973,1000 US$,560
+Import Value,Poultry Meat,1974,1000 US$,697
+Import Value,Poultry Meat,1975,1000 US$,604
+Import Value,Poultry Meat,1976,1000 US$,899
+Import Value,Poultry Meat,1977,1000 US$,1105
+Import Value,Poultry Meat,1978,1000 US$,1485
+Import Value,Poultry Meat,1979,1000 US$,1081
+Import Value,Poultry Meat,1980,1000 US$,1151
+Import Value,Poultry Meat,1981,1000 US$,1190
+Import Value,Poultry Meat,1982,1000 US$,1305
+Import Value,Poultry Meat,1983,1000 US$,7023
+Import Value,Poultry Meat,1984,1000 US$,8639
+Import Value,Poultry Meat,1985,1000 US$,10771
+Import Value,Poultry Meat,1986,1000 US$,15382
+Import Value,Poultry Meat,1987,1000 US$,15558
+Import Value,Poultry Meat,1988,1000 US$,13568
+Import Value,Poultry Meat,1989,1000 US$,14831
+Import Value,Poultry Meat,1990,1000 US$,19643
+Import Value,Poultry Meat,1991,1000 US$,19245
+Import Value,Poultry Meat,1992,1000 US$,14135
+Import Value,Poultry Meat,1993,1000 US$,14620
+Import Value,Poultry Meat,1994,1000 US$,11198
+Import Value,Poultry Meat,1995,1000 US$,14319
+Import Value,Poultry Meat,1996,1000 US$,17600
+Import Value,Poultry Meat,1997,1000 US$,22450
+Import Value,Poultry Meat,1998,1000 US$,27744
+Import Value,Poultry Meat,1999,1000 US$,40102
+Import Value,Poultry Meat,2000,1000 US$,51574
+Import Value,Poultry Meat,2001,1000 US$,74529
+Import Value,Poultry Meat,2002,1000 US$,83964
+Import Value,Poultry Meat,2003,1000 US$,98586
+Import Value,Poultry Meat,2004,1000 US$,135570
+Import Value,Poultry Meat,2005,1000 US$,138253
+Import Value,Poultry Meat,2006,1000 US$,166721
+Import Value,Poultry Meat,2007,1000 US$,214115
+Import Value,Poultry Meat,2008,1000 US$,229601
+Import Value,Poultry Meat,2009,1000 US$,237328
+Import Value,Poultry Meat,2010,1000 US$,273179
+Import Value,Poultry Meat,2011,1000 US$,279615
+Import Value,Poultry Meat,2012,1000 US$,326887
+Import Value,Poultry Meat,2013,1000 US$,367151
+Import Value,Poultry Meat,2014,1000 US$,383645
+Import Value,Poultry Meat,2015,1000 US$,514213
+Import Value,Poultry Meat,2016,1000 US$,526981
+Import Value,Poultry Meat,2017,1000 US$,474914
+Import Value,Poultry Meat,2018,1000 US$,526798
+Import Value,Poultry Meat,2019,1000 US$,519893
+Export Quantity,Poultry Meat,1961,tonnes,115016
+Export Quantity,Poultry Meat,1962,tonnes,123929
+Export Quantity,Poultry Meat,1963,tonnes,98453
+Export Quantity,Poultry Meat,1964,tonnes,109537
+Export Quantity,Poultry Meat,1965,tonnes,94872
+Export Quantity,Poultry Meat,1966,tonnes,85008
+Export Quantity,Poultry Meat,1967,tonnes,70635
+Export Quantity,Poultry Meat,1968,tonnes,73917
+Export Quantity,Poultry Meat,1969,tonnes,65628
+Export Quantity,Poultry Meat,1970,tonnes,66872
+Export Quantity,Poultry Meat,1971,tonnes,64328
+Export Quantity,Poultry Meat,1972,tonnes,72127
+Export Quantity,Poultry Meat,1973,tonnes,76284
+Export Quantity,Poultry Meat,1974,tonnes,81037
+Export Quantity,Poultry Meat,1975,tonnes,95739
+Export Quantity,Poultry Meat,1976,tonnes,181898
+Export Quantity,Poultry Meat,1977,tonnes,188868
+Export Quantity,Poultry Meat,1978,tonnes,199643
+Export Quantity,Poultry Meat,1979,tonnes,240486
+Export Quantity,Poultry Meat,1980,tonnes,345935
+Export Quantity,Poultry Meat,1981,tonnes,398704
+Export Quantity,Poultry Meat,1982,tonnes,284933
+Export Quantity,Poultry Meat,1983,tonnes,244163
+Export Quantity,Poultry Meat,1984,tonnes,234416
+Export Quantity,Poultry Meat,1985,tonnes,235653
+Export Quantity,Poultry Meat,1986,tonnes,290780
+Export Quantity,Poultry Meat,1987,tonnes,383229
+Export Quantity,Poultry Meat,1988,tonnes,408355
+Export Quantity,Poultry Meat,1989,tonnes,507010
+Export Quantity,Poultry Meat,1990,tonnes,613274
+Export Quantity,Poultry Meat,1991,tonnes,695457
+Export Quantity,Poultry Meat,1992,tonnes,851577
+Export Quantity,Poultry Meat,1993,tonnes,1097890
+Export Quantity,Poultry Meat,1994,tonnes,1547007
+Export Quantity,Poultry Meat,1995,tonnes,2084127
+Export Quantity,Poultry Meat,1996,tonnes,2433395
+Export Quantity,Poultry Meat,1997,tonnes,2615755
+Export Quantity,Poultry Meat,1998,tonnes,2553700
+Export Quantity,Poultry Meat,1999,tonnes,2532097
+Export Quantity,Poultry Meat,2000,tonnes,2911881
+Export Quantity,Poultry Meat,2001,tonnes,3171406
+Export Quantity,Poultry Meat,2002,tonnes,2686984
+Export Quantity,Poultry Meat,2003,tonnes,2784965
+Export Quantity,Poultry Meat,2004,tonnes,2652270
+Export Quantity,Poultry Meat,2005,tonnes,2881273
+Export Quantity,Poultry Meat,2006,tonnes,2956689
+Export Quantity,Poultry Meat,2007,tonnes,3414338
+Export Quantity,Poultry Meat,2008,tonnes,4088737
+Export Quantity,Poultry Meat,2009,tonnes,3907217
+Export Quantity,Poultry Meat,2010,tonnes,3736970
+Export Quantity,Poultry Meat,2011,tonnes,3931262
+Export Quantity,Poultry Meat,2012,tonnes,4107088
+Export Quantity,Poultry Meat,2013,tonnes,4150414
+Export Quantity,Poultry Meat,2014,tonnes,4166949
+Export Quantity,Poultry Meat,2015,tonnes,3491425
+Export Quantity,Poultry Meat,2016,tonnes,3653866
+Export Quantity,Poultry Meat,2017,tonnes,3771907
+Export Quantity,Poultry Meat,2018,tonnes,3851967
+Export Quantity,Poultry Meat,2019,tonnes,3767080
+Export Value,Poultry Meat,1961,1000 US$,67269
+Export Value,Poultry Meat,1962,1000 US$,75784
+Export Value,Poultry Meat,1963,1000 US$,56850
+Export Value,Poultry Meat,1964,1000 US$,61341
+Export Value,Poultry Meat,1965,1000 US$,57689
+Export Value,Poultry Meat,1966,1000 US$,52163
+Export Value,Poultry Meat,1967,1000 US$,46031
+Export Value,Poultry Meat,1968,1000 US$,43730
+Export Value,Poultry Meat,1969,1000 US$,44153
+Export Value,Poultry Meat,1970,1000 US$,42943
+Export Value,Poultry Meat,1971,1000 US$,40221
+Export Value,Poultry Meat,1972,1000 US$,47522
+Export Value,Poultry Meat,1973,1000 US$,69444
+Export Value,Poultry Meat,1974,1000 US$,78048
+Export Value,Poultry Meat,1975,1000 US$,94575
+Export Value,Poultry Meat,1976,1000 US$,178589
+Export Value,Poultry Meat,1977,1000 US$,183819
+Export Value,Poultry Meat,1978,1000 US$,217069
+Export Value,Poultry Meat,1979,1000 US$,276164
+Export Value,Poultry Meat,1980,1000 US$,405862
+Export Value,Poultry Meat,1981,1000 US$,487784
+Export Value,Poultry Meat,1982,1000 US$,309680
+Export Value,Poultry Meat,1983,1000 US$,278230
+Export Value,Poultry Meat,1984,1000 US$,282730
+Export Value,Poultry Meat,1985,1000 US$,249831
+Export Value,Poultry Meat,1986,1000 US$,312766
+Export Value,Poultry Meat,1987,1000 US$,404725
+Export Value,Poultry Meat,1988,1000 US$,459238
+Export Value,Poultry Meat,1989,1000 US$,522301
+Export Value,Poultry Meat,1990,1000 US$,679014
+Export Value,Poultry Meat,1991,1000 US$,818612
+Export Value,Poultry Meat,1992,1000 US$,933722
+Export Value,Poultry Meat,1993,1000 US$,1102874
+Export Value,Poultry Meat,1994,1000 US$,1574421
+Export Value,Poultry Meat,1995,1000 US$,2027832
+Export Value,Poultry Meat,1996,1000 US$,2489498
+Export Value,Poultry Meat,1997,1000 US$,2406207
+Export Value,Poultry Meat,1998,1000 US$,2144530
+Export Value,Poultry Meat,1999,1000 US$,1769242
+Export Value,Poultry Meat,2000,1000 US$,1961093
+Export Value,Poultry Meat,2001,1000 US$,2282567
+Export Value,Poultry Meat,2002,1000 US$,1733246
+Export Value,Poultry Meat,2003,1000 US$,1933854
+Export Value,Poultry Meat,2004,1000 US$,2210900
+Export Value,Poultry Meat,2005,1000 US$,2680643
+Export Value,Poultry Meat,2006,1000 US$,2465658
+Export Value,Poultry Meat,2007,1000 US$,3507582
+Export Value,Poultry Meat,2008,1000 US$,4436177
+Export Value,Poultry Meat,2009,1000 US$,4125453
+Export Value,Poultry Meat,2010,1000 US$,4122847
+Export Value,Poultry Meat,2011,1000 US$,4818368
+Export Value,Poultry Meat,2012,1000 US$,5343409
+Export Value,Poultry Meat,2013,1000 US$,5401207
+Export Value,Poultry Meat,2014,1000 US$,5368372
+Export Value,Poultry Meat,2015,1000 US$,3896058
+Export Value,Poultry Meat,2016,1000 US$,3718639
+Export Value,Poultry Meat,2017,1000 US$,4090640
+Export Value,Poultry Meat,2018,1000 US$,4075750
+Export Value,Poultry Meat,2019,1000 US$,4072282
+Import Quantity,Pigmeat,1961,tonnes,90974
+Import Quantity,Pigmeat,1962,tonnes,106970
+Import Quantity,Pigmeat,1963,tonnes,110876
+Import Quantity,Pigmeat,1964,tonnes,110695
+Import Quantity,Pigmeat,1965,tonnes,138117
+Import Quantity,Pigmeat,1966,tonnes,158297
+Import Quantity,Pigmeat,1967,tonnes,162388
+Import Quantity,Pigmeat,1968,tonnes,171680
+Import Quantity,Pigmeat,1969,tonnes,167238
+Import Quantity,Pigmeat,1970,tonnes,183666
+Import Quantity,Pigmeat,1971,tonnes,188053
+Import Quantity,Pigmeat,1972,tonnes,208381
+Import Quantity,Pigmeat,1973,tonnes,209896
+Import Quantity,Pigmeat,1974,tonnes,191933
+Import Quantity,Pigmeat,1975,tonnes,174431
+Import Quantity,Pigmeat,1976,tonnes,169869
+Import Quantity,Pigmeat,1977,tonnes,159214
+Import Quantity,Pigmeat,1978,tonnes,182409
+Import Quantity,Pigmeat,1979,tonnes,186445
+Import Quantity,Pigmeat,1980,tonnes,216272
+Import Quantity,Pigmeat,1981,tonnes,214673
+Import Quantity,Pigmeat,1982,tonnes,245416
+Import Quantity,Pigmeat,1983,tonnes,277095
+Import Quantity,Pigmeat,1984,tonnes,384684
+Import Quantity,Pigmeat,1985,tonnes,456940
+Import Quantity,Pigmeat,1986,tonnes,452127
+Import Quantity,Pigmeat,1987,tonnes,492540
+Import Quantity,Pigmeat,1988,tonnes,469119
+Import Quantity,Pigmeat,1989,tonnes,391867
+Import Quantity,Pigmeat,1990,tonnes,389220
+Import Quantity,Pigmeat,1991,tonnes,344441
+Import Quantity,Pigmeat,1992,tonnes,286224
+Import Quantity,Pigmeat,1993,tonnes,329890
+Import Quantity,Pigmeat,1994,tonnes,327297
+Import Quantity,Pigmeat,1995,tonnes,296759
+Import Quantity,Pigmeat,1996,tonnes,280371
+Import Quantity,Pigmeat,1997,tonnes,295698
+Import Quantity,Pigmeat,1998,tonnes,325713
+Import Quantity,Pigmeat,1999,tonnes,383981
+Import Quantity,Pigmeat,2000,tonnes,502182
+Import Quantity,Pigmeat,2001,tonnes,501931
+Import Quantity,Pigmeat,2002,tonnes,555876
+Import Quantity,Pigmeat,2003,tonnes,613517
+Import Quantity,Pigmeat,2004,tonnes,568983
+Import Quantity,Pigmeat,2005,tonnes,531336
+Import Quantity,Pigmeat,2006,tonnes,502249
+Import Quantity,Pigmeat,2007,tonnes,488755
+Import Quantity,Pigmeat,2008,tonnes,430720
+Import Quantity,Pigmeat,2009,tonnes,436180
+Import Quantity,Pigmeat,2010,tonnes,450287
+Import Quantity,Pigmeat,2011,tonnes,427942
+Import Quantity,Pigmeat,2012,tonnes,427094
+Import Quantity,Pigmeat,2013,tonnes,471283
+Import Quantity,Pigmeat,2014,tonnes,540283
+Import Quantity,Pigmeat,2015,tonnes,596404
+Import Quantity,Pigmeat,2016,tonnes,582735
+Import Quantity,Pigmeat,2017,tonnes,598954
+Import Quantity,Pigmeat,2018,tonnes,570252
+Import Quantity,Pigmeat,2019,tonnes,515352
+Import Value,Pigmeat,1961,1000 US$,114933
+Import Value,Pigmeat,1962,1000 US$,127589
+Import Value,Pigmeat,1963,1000 US$,130243
+Import Value,Pigmeat,1964,1000 US$,126886
+Import Value,Pigmeat,1965,1000 US$,157582
+Import Value,Pigmeat,1966,1000 US$,201690
+Import Value,Pigmeat,1967,1000 US$,203362
+Import Value,Pigmeat,1968,1000 US$,216190
+Import Value,Pigmeat,1969,1000 US$,238778
+Import Value,Pigmeat,1970,1000 US$,271986
+Import Value,Pigmeat,1971,1000 US$,263168
+Import Value,Pigmeat,1972,1000 US$,302297
+Import Value,Pigmeat,1973,1000 US$,439629
+Import Value,Pigmeat,1974,1000 US$,389616
+Import Value,Pigmeat,1975,1000 US$,429982
+Import Value,Pigmeat,1976,1000 US$,459837
+Import Value,Pigmeat,1977,1000 US$,410988
+Import Value,Pigmeat,1978,1000 US$,498256
+Import Value,Pigmeat,1979,1000 US$,476175
+Import Value,Pigmeat,1980,1000 US$,486191
+Import Value,Pigmeat,1981,1000 US$,494114
+Import Value,Pigmeat,1982,1000 US$,602403
+Import Value,Pigmeat,1983,1000 US$,640964
+Import Value,Pigmeat,1984,1000 US$,803990
+Import Value,Pigmeat,1985,1000 US$,924409
+Import Value,Pigmeat,1986,1000 US$,1040576
+Import Value,Pigmeat,1987,1000 US$,1154015
+Import Value,Pigmeat,1988,1000 US$,986539
+Import Value,Pigmeat,1989,1000 US$,833911
+Import Value,Pigmeat,1990,1000 US$,1016886
+Import Value,Pigmeat,1991,1000 US$,858773
+Import Value,Pigmeat,1992,1000 US$,666946
+Import Value,Pigmeat,1993,1000 US$,746927
+Import Value,Pigmeat,1994,1000 US$,753720
+Import Value,Pigmeat,1995,1000 US$,729227
+Import Value,Pigmeat,1996,1000 US$,772670
+Import Value,Pigmeat,1997,1000 US$,805397
+Import Value,Pigmeat,1998,1000 US$,728226
+Import Value,Pigmeat,1999,1000 US$,799230
+Import Value,Pigmeat,2000,1000 US$,1050915
+Import Value,Pigmeat,2001,1000 US$,1105552
+Import Value,Pigmeat,2002,1000 US$,1035246
+Import Value,Pigmeat,2003,1000 US$,1246302
+Import Value,Pigmeat,2004,1000 US$,1434545
+Import Value,Pigmeat,2005,1000 US$,1346576
+Import Value,Pigmeat,2006,1000 US$,1259230
+Import Value,Pigmeat,2007,1000 US$,1221095
+Import Value,Pigmeat,2008,1000 US$,1129465
+Import Value,Pigmeat,2009,1000 US$,1044708
+Import Value,Pigmeat,2010,1000 US$,1255684
+Import Value,Pigmeat,2011,1000 US$,1373194
+Import Value,Pigmeat,2012,1000 US$,1349022
+Import Value,Pigmeat,2013,1000 US$,1525757
+Import Value,Pigmeat,2014,1000 US$,1828083
+Import Value,Pigmeat,2015,1000 US$,1731188
+Import Value,Pigmeat,2016,1000 US$,1742073
+Import Value,Pigmeat,2017,1000 US$,1886456
+Import Value,Pigmeat,2018,1000 US$,1765427
+Import Value,Pigmeat,2019,1000 US$,1637576
+Export Quantity,Pigmeat,1961,tonnes,33927
+Export Quantity,Pigmeat,1962,tonnes,31533
+Export Quantity,Pigmeat,1963,tonnes,65362
+Export Quantity,Pigmeat,1964,tonnes,63757
+Export Quantity,Pigmeat,1965,tonnes,46970
+Export Quantity,Pigmeat,1966,tonnes,62525
+Export Quantity,Pigmeat,1967,tonnes,65002
+Export Quantity,Pigmeat,1968,tonnes,81419
+Export Quantity,Pigmeat,1969,tonnes,114261
+Export Quantity,Pigmeat,1970,tonnes,79049
+Export Quantity,Pigmeat,1971,tonnes,86954
+Export Quantity,Pigmeat,1972,tonnes,91216
+Export Quantity,Pigmeat,1973,tonnes,123981
+Export Quantity,Pigmeat,1974,tonnes,98383
+Export Quantity,Pigmeat,1975,tonnes,142482
+Export Quantity,Pigmeat,1976,tonnes,205958
+Export Quantity,Pigmeat,1977,tonnes,186716
+Export Quantity,Pigmeat,1978,tonnes,163389
+Export Quantity,Pigmeat,1979,tonnes,155397
+Export Quantity,Pigmeat,1980,tonnes,148183
+Export Quantity,Pigmeat,1981,tonnes,164047
+Export Quantity,Pigmeat,1982,tonnes,133948
+Export Quantity,Pigmeat,1983,tonnes,119299
+Export Quantity,Pigmeat,1984,tonnes,93502
+Export Quantity,Pigmeat,1985,tonnes,91372
+Export Quantity,Pigmeat,1986,tonnes,65166
+Export Quantity,Pigmeat,1987,tonnes,76124
+Export Quantity,Pigmeat,1988,tonnes,156082
+Export Quantity,Pigmeat,1989,tonnes,167117
+Export Quantity,Pigmeat,1990,tonnes,163805
+Export Quantity,Pigmeat,1991,tonnes,206251
+Export Quantity,Pigmeat,1992,tonnes,247813
+Export Quantity,Pigmeat,1993,tonnes,262536
+Export Quantity,Pigmeat,1994,tonnes,330853
+Export Quantity,Pigmeat,1995,tonnes,423882
+Export Quantity,Pigmeat,1996,tonnes,509919
+Export Quantity,Pigmeat,1997,tonnes,584757
+Export Quantity,Pigmeat,1998,tonnes,629690
+Export Quantity,Pigmeat,1999,tonnes,572229
+Export Quantity,Pigmeat,2000,tonnes,761427
+Export Quantity,Pigmeat,2001,tonnes,840778
+Export Quantity,Pigmeat,2002,tonnes,860929
+Export Quantity,Pigmeat,2003,tonnes,907298
+Export Quantity,Pigmeat,2004,tonnes,1131456
+Export Quantity,Pigmeat,2005,tonnes,1310005
+Export Quantity,Pigmeat,2006,tonnes,1425592
+Export Quantity,Pigmeat,2007,tonnes,1498600
+Export Quantity,Pigmeat,2008,tonnes,2300179
+Export Quantity,Pigmeat,2009,tonnes,2119387
+Export Quantity,Pigmeat,2010,tonnes,2189946
+Export Quantity,Pigmeat,2011,tonnes,2586132
+Export Quantity,Pigmeat,2012,tonnes,2596929
+Export Quantity,Pigmeat,2013,tonnes,2460328
+Export Quantity,Pigmeat,2014,tonnes,2410676
+Export Quantity,Pigmeat,2015,tonnes,2449521
+Export Quantity,Pigmeat,2016,tonnes,2651879
+Export Quantity,Pigmeat,2017,tonnes,2801555
+Export Quantity,Pigmeat,2018,tonnes,2812681
+Export Quantity,Pigmeat,2019,tonnes,3044686
+Export Value,Pigmeat,1961,1000 US$,20974
+Export Value,Pigmeat,1962,1000 US$,18915
+Export Value,Pigmeat,1963,1000 US$,38523
+Export Value,Pigmeat,1964,1000 US$,38982
+Export Value,Pigmeat,1965,1000 US$,32759
+Export Value,Pigmeat,1966,1000 US$,39643
+Export Value,Pigmeat,1967,1000 US$,37637
+Export Value,Pigmeat,1968,1000 US$,50209
+Export Value,Pigmeat,1969,1000 US$,84735
+Export Value,Pigmeat,1970,1000 US$,54006
+Export Value,Pigmeat,1971,1000 US$,55186
+Export Value,Pigmeat,1972,1000 US$,73621
+Export Value,Pigmeat,1973,1000 US$,148605
+Export Value,Pigmeat,1974,1000 US$,108231
+Export Value,Pigmeat,1975,1000 US$,217436
+Export Value,Pigmeat,1976,1000 US$,315735
+Export Value,Pigmeat,1977,1000 US$,267507
+Export Value,Pigmeat,1978,1000 US$,275524
+Export Value,Pigmeat,1979,1000 US$,275270
+Export Value,Pigmeat,1980,1000 US$,242758
+Export Value,Pigmeat,1981,1000 US$,309190
+Export Value,Pigmeat,1982,1000 US$,242705
+Export Value,Pigmeat,1983,1000 US$,226183
+Export Value,Pigmeat,1984,1000 US$,154873
+Export Value,Pigmeat,1985,1000 US$,124073
+Export Value,Pigmeat,1986,1000 US$,124258
+Export Value,Pigmeat,1987,1000 US$,169397
+Export Value,Pigmeat,1988,1000 US$,333979
+Export Value,Pigmeat,1989,1000 US$,412519
+Export Value,Pigmeat,1990,1000 US$,446246
+Export Value,Pigmeat,1991,1000 US$,482697
+Export Value,Pigmeat,1992,1000 US$,593900
+Export Value,Pigmeat,1993,1000 US$,648442
+Export Value,Pigmeat,1994,1000 US$,751901
+Export Value,Pigmeat,1995,1000 US$,1068283
+Export Value,Pigmeat,1996,1000 US$,1331086
+Export Value,Pigmeat,1997,1000 US$,1432160
+Export Value,Pigmeat,1998,1000 US$,1355151
+Export Value,Pigmeat,1999,1000 US$,1272708
+Export Value,Pigmeat,2000,1000 US$,1650571
+Export Value,Pigmeat,2001,1000 US$,1739172
+Export Value,Pigmeat,2002,1000 US$,1666237
+Export Value,Pigmeat,2003,1000 US$,1749394
+Export Value,Pigmeat,2004,1000 US$,2294062
+Export Value,Pigmeat,2005,1000 US$,2741089
+Export Value,Pigmeat,2006,1000 US$,2949037
+Export Value,Pigmeat,2007,1000 US$,3300285
+Export Value,Pigmeat,2008,1000 US$,4942145
+Export Value,Pigmeat,2009,1000 US$,4480465
+Export Value,Pigmeat,2010,1000 US$,5053917
+Export Value,Pigmeat,2011,1000 US$,6439420
+Export Value,Pigmeat,2012,1000 US$,6704770
+Export Value,Pigmeat,2013,1000 US$,6430340
+Export Value,Pigmeat,2014,1000 US$,6946464
+Export Value,Pigmeat,2015,1000 US$,5918384
+Export Value,Pigmeat,2016,1000 US$,6301343
+Export Value,Pigmeat,2017,1000 US$,6791285
+Export Value,Pigmeat,2018,1000 US$,6640479
+Export Value,Pigmeat,2019,1000 US$,7222029
+Import Quantity,Other Meat,1961,tonnes,45131
+Import Quantity,Other Meat,1962,tonnes,71278
+Import Quantity,Other Meat,1963,tonnes,66394
+Import Quantity,Other Meat,1964,tonnes,32108
+Import Quantity,Other Meat,1965,tonnes,32266
+Import Quantity,Other Meat,1966,tonnes,51685
+Import Quantity,Other Meat,1967,tonnes,46943
+Import Quantity,Other Meat,1968,tonnes,55865
+Import Quantity,Other Meat,1969,tonnes,63422
+Import Quantity,Other Meat,1970,tonnes,58849
+Import Quantity,Other Meat,1971,tonnes,49500
+Import Quantity,Other Meat,1972,tonnes,56391
+Import Quantity,Other Meat,1973,tonnes,31207
+Import Quantity,Other Meat,1974,tonnes,21219
+Import Quantity,Other Meat,1975,tonnes,20457
+Import Quantity,Other Meat,1976,tonnes,26023
+Import Quantity,Other Meat,1977,tonnes,17324
+Import Quantity,Other Meat,1978,tonnes,27865
+Import Quantity,Other Meat,1979,tonnes,30364
+Import Quantity,Other Meat,1980,tonnes,25349
+Import Quantity,Other Meat,1981,tonnes,27744
+Import Quantity,Other Meat,1982,tonnes,21801
+Import Quantity,Other Meat,1983,tonnes,21922
+Import Quantity,Other Meat,1984,tonnes,21903
+Import Quantity,Other Meat,1985,tonnes,30113
+Import Quantity,Other Meat,1986,tonnes,33245
+Import Quantity,Other Meat,1987,tonnes,30064
+Import Quantity,Other Meat,1988,tonnes,32792
+Import Quantity,Other Meat,1989,tonnes,28238
+Import Quantity,Other Meat,1990,tonnes,23661
+Import Quantity,Other Meat,1991,tonnes,25043
+Import Quantity,Other Meat,1992,tonnes,28337
+Import Quantity,Other Meat,1993,tonnes,28642
+Import Quantity,Other Meat,1994,tonnes,27564
+Import Quantity,Other Meat,1995,tonnes,36083
+Import Quantity,Other Meat,1996,tonnes,41771
+Import Quantity,Other Meat,1997,tonnes,47152
+Import Quantity,Other Meat,1998,tonnes,59652
+Import Quantity,Other Meat,1999,tonnes,59563
+Import Quantity,Other Meat,2000,tonnes,69506
+Import Quantity,Other Meat,2001,tonnes,73290
+Import Quantity,Other Meat,2002,tonnes,82039
+Import Quantity,Other Meat,2003,tonnes,84848
+Import Quantity,Other Meat,2004,tonnes,91118
+Import Quantity,Other Meat,2005,tonnes,94407
+Import Quantity,Other Meat,2006,tonnes,99994
+Import Quantity,Other Meat,2007,tonnes,103312
+Import Quantity,Other Meat,2008,tonnes,96538
+Import Quantity,Other Meat,2009,tonnes,90659
+Import Quantity,Other Meat,2010,tonnes,91889
+Import Quantity,Other Meat,2011,tonnes,93954
+Import Quantity,Other Meat,2012,tonnes,90202
+Import Quantity,Other Meat,2013,tonnes,98233
+Import Quantity,Other Meat,2014,tonnes,112504
+Import Quantity,Other Meat,2015,tonnes,118725
+Import Quantity,Other Meat,2016,tonnes,118488
+Import Quantity,Other Meat,2017,tonnes,138950
+Import Quantity,Other Meat,2018,tonnes,142318
+Import Quantity,Other Meat,2019,tonnes,141117
+Import Value,Other Meat,1961,1000 US$,29208
+Import Value,Other Meat,1962,1000 US$,38557
+Import Value,Other Meat,1963,1000 US$,37062
+Import Value,Other Meat,1964,1000 US$,19891
+Import Value,Other Meat,1965,1000 US$,21882
+Import Value,Other Meat,1966,1000 US$,37688
+Import Value,Other Meat,1967,1000 US$,32102
+Import Value,Other Meat,1968,1000 US$,36957
+Import Value,Other Meat,1969,1000 US$,47426
+Import Value,Other Meat,1970,1000 US$,50635
+Import Value,Other Meat,1971,1000 US$,42895
+Import Value,Other Meat,1972,1000 US$,49447
+Import Value,Other Meat,1973,1000 US$,47732
+Import Value,Other Meat,1974,1000 US$,46118
+Import Value,Other Meat,1975,1000 US$,34040
+Import Value,Other Meat,1976,1000 US$,46406
+Import Value,Other Meat,1977,1000 US$,35426
+Import Value,Other Meat,1978,1000 US$,59282
+Import Value,Other Meat,1979,1000 US$,71280
+Import Value,Other Meat,1980,1000 US$,62593
+Import Value,Other Meat,1981,1000 US$,79970
+Import Value,Other Meat,1982,1000 US$,63247
+Import Value,Other Meat,1983,1000 US$,65339
+Import Value,Other Meat,1984,1000 US$,58593
+Import Value,Other Meat,1985,1000 US$,85168
+Import Value,Other Meat,1986,1000 US$,93910
+Import Value,Other Meat,1987,1000 US$,91640
+Import Value,Other Meat,1988,1000 US$,103056
+Import Value,Other Meat,1989,1000 US$,90339
+Import Value,Other Meat,1990,1000 US$,71757
+Import Value,Other Meat,1991,1000 US$,74749
+Import Value,Other Meat,1992,1000 US$,81143
+Import Value,Other Meat,1993,1000 US$,95192
+Import Value,Other Meat,1994,1000 US$,91904
+Import Value,Other Meat,1995,1000 US$,126187
+Import Value,Other Meat,1996,1000 US$,173891
+Import Value,Other Meat,1997,1000 US$,195657
+Import Value,Other Meat,1998,1000 US$,227435
+Import Value,Other Meat,1999,1000 US$,240204
+Import Value,Other Meat,2000,1000 US$,276110
+Import Value,Other Meat,2001,1000 US$,298605
+Import Value,Other Meat,2002,1000 US$,320537
+Import Value,Other Meat,2003,1000 US$,412258
+Import Value,Other Meat,2004,1000 US$,491679
+Import Value,Other Meat,2005,1000 US$,568768
+Import Value,Other Meat,2006,1000 US$,539317
+Import Value,Other Meat,2007,1000 US$,566078
+Import Value,Other Meat,2008,1000 US$,558559
+Import Value,Other Meat,2009,1000 US$,539479
+Import Value,Other Meat,2010,1000 US$,651253
+Import Value,Other Meat,2011,1000 US$,824243
+Import Value,Other Meat,2012,1000 US$,680060
+Import Value,Other Meat,2013,1000 US$,725101
+Import Value,Other Meat,2014,1000 US$,840669
+Import Value,Other Meat,2015,1000 US$,864092
+Import Value,Other Meat,2016,1000 US$,853023
+Import Value,Other Meat,2017,1000 US$,1059154
+Import Value,Other Meat,2018,1000 US$,1129155
+Import Value,Other Meat,2019,1000 US$,1231613
+Export Quantity,Other Meat,1961,tonnes,5144
+Export Quantity,Other Meat,1962,tonnes,5196
+Export Quantity,Other Meat,1963,tonnes,4180
+Export Quantity,Other Meat,1964,tonnes,4149
+Export Quantity,Other Meat,1965,tonnes,8920
+Export Quantity,Other Meat,1966,tonnes,11831
+Export Quantity,Other Meat,1967,tonnes,11847
+Export Quantity,Other Meat,1968,tonnes,12409
+Export Quantity,Other Meat,1969,tonnes,11882
+Export Quantity,Other Meat,1970,tonnes,10832
+Export Quantity,Other Meat,1971,tonnes,11732
+Export Quantity,Other Meat,1972,tonnes,16588
+Export Quantity,Other Meat,1973,tonnes,32950
+Export Quantity,Other Meat,1974,tonnes,45909
+Export Quantity,Other Meat,1975,tonnes,52878
+Export Quantity,Other Meat,1976,tonnes,65488
+Export Quantity,Other Meat,1977,tonnes,70294
+Export Quantity,Other Meat,1978,tonnes,71639
+Export Quantity,Other Meat,1979,tonnes,67575
+Export Quantity,Other Meat,1980,tonnes,72601
+Export Quantity,Other Meat,1981,tonnes,60469
+Export Quantity,Other Meat,1982,tonnes,53616
+Export Quantity,Other Meat,1983,tonnes,41058
+Export Quantity,Other Meat,1984,tonnes,39889
+Export Quantity,Other Meat,1985,tonnes,42858
+Export Quantity,Other Meat,1986,tonnes,51857
+Export Quantity,Other Meat,1987,tonnes,66723
+Export Quantity,Other Meat,1988,tonnes,78949
+Export Quantity,Other Meat,1989,tonnes,86913
+Export Quantity,Other Meat,1990,tonnes,77926
+Export Quantity,Other Meat,1991,tonnes,69957
+Export Quantity,Other Meat,1992,tonnes,66999
+Export Quantity,Other Meat,1993,tonnes,59976
+Export Quantity,Other Meat,1994,tonnes,46861
+Export Quantity,Other Meat,1995,tonnes,43462
+Export Quantity,Other Meat,1996,tonnes,52282
+Export Quantity,Other Meat,1997,tonnes,69776
+Export Quantity,Other Meat,1998,tonnes,59912
+Export Quantity,Other Meat,1999,tonnes,51178
+Export Quantity,Other Meat,2000,tonnes,51297
+Export Quantity,Other Meat,2001,tonnes,58700
+Export Quantity,Other Meat,2002,tonnes,36712
+Export Quantity,Other Meat,2003,tonnes,38570
+Export Quantity,Other Meat,2004,tonnes,38311
+Export Quantity,Other Meat,2005,tonnes,59540
+Export Quantity,Other Meat,2006,tonnes,43417
+Export Quantity,Other Meat,2007,tonnes,25569
+Export Quantity,Other Meat,2008,tonnes,18521
+Export Quantity,Other Meat,2009,tonnes,21247
+Export Quantity,Other Meat,2010,tonnes,22103
+Export Quantity,Other Meat,2011,tonnes,29169
+Export Quantity,Other Meat,2012,tonnes,23078
+Export Quantity,Other Meat,2013,tonnes,22616
+Export Quantity,Other Meat,2014,tonnes,23205
+Export Quantity,Other Meat,2015,tonnes,22201
+Export Quantity,Other Meat,2016,tonnes,23098
+Export Quantity,Other Meat,2017,tonnes,19570
+Export Quantity,Other Meat,2018,tonnes,23663
+Export Quantity,Other Meat,2019,tonnes,27857
+Export Value,Other Meat,1961,1000 US$,4783
+Export Value,Other Meat,1962,1000 US$,4357
+Export Value,Other Meat,1963,1000 US$,3707
+Export Value,Other Meat,1964,1000 US$,3639
+Export Value,Other Meat,1965,1000 US$,7550
+Export Value,Other Meat,1966,1000 US$,10848
+Export Value,Other Meat,1967,1000 US$,10370
+Export Value,Other Meat,1968,1000 US$,11341
+Export Value,Other Meat,1969,1000 US$,10495
+Export Value,Other Meat,1970,1000 US$,10825
+Export Value,Other Meat,1971,1000 US$,11318
+Export Value,Other Meat,1972,1000 US$,16489
+Export Value,Other Meat,1973,1000 US$,39852
+Export Value,Other Meat,1974,1000 US$,56689
+Export Value,Other Meat,1975,1000 US$,70339
+Export Value,Other Meat,1976,1000 US$,89842
+Export Value,Other Meat,1977,1000 US$,104727
+Export Value,Other Meat,1978,1000 US$,120229
+Export Value,Other Meat,1979,1000 US$,130686
+Export Value,Other Meat,1980,1000 US$,147677
+Export Value,Other Meat,1981,1000 US$,130408
+Export Value,Other Meat,1982,1000 US$,108345
+Export Value,Other Meat,1983,1000 US$,80044
+Export Value,Other Meat,1984,1000 US$,72959
+Export Value,Other Meat,1985,1000 US$,65200
+Export Value,Other Meat,1986,1000 US$,79662
+Export Value,Other Meat,1987,1000 US$,120584
+Export Value,Other Meat,1988,1000 US$,154899
+Export Value,Other Meat,1989,1000 US$,178957
+Export Value,Other Meat,1990,1000 US$,197422
+Export Value,Other Meat,1991,1000 US$,186305
+Export Value,Other Meat,1992,1000 US$,174292
+Export Value,Other Meat,1993,1000 US$,155157
+Export Value,Other Meat,1994,1000 US$,118948
+Export Value,Other Meat,1995,1000 US$,114176
+Export Value,Other Meat,1996,1000 US$,123812
+Export Value,Other Meat,1997,1000 US$,122335
+Export Value,Other Meat,1998,1000 US$,117700
+Export Value,Other Meat,1999,1000 US$,103079
+Export Value,Other Meat,2000,1000 US$,101945
+Export Value,Other Meat,2001,1000 US$,124511
+Export Value,Other Meat,2002,1000 US$,85562
+Export Value,Other Meat,2003,1000 US$,77344
+Export Value,Other Meat,2004,1000 US$,95996
+Export Value,Other Meat,2005,1000 US$,138721
+Export Value,Other Meat,2006,1000 US$,128689
+Export Value,Other Meat,2007,1000 US$,67085
+Export Value,Other Meat,2008,1000 US$,58360
+Export Value,Other Meat,2009,1000 US$,56292
+Export Value,Other Meat,2010,1000 US$,56914
+Export Value,Other Meat,2011,1000 US$,64955
+Export Value,Other Meat,2012,1000 US$,62737
+Export Value,Other Meat,2013,1000 US$,67583
+Export Value,Other Meat,2014,1000 US$,76954
+Export Value,Other Meat,2015,1000 US$,65714
+Export Value,Other Meat,2016,1000 US$,71763
+Export Value,Other Meat,2017,1000 US$,69456
+Export Value,Other Meat,2018,1000 US$,72969
+Export Value,Other Meat,2019,1000 US$,78767
